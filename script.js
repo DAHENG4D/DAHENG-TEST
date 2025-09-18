@@ -129,7 +129,7 @@ document.addEventListener('DOMContentLoaded', () => {
             navAbout: "About Us",
             navContact: "Contact",
             heroHeading: "Dream Big, Win Big!",
-            heroSubheading: "Check the latest DA-HENG 4D results and play your lucky numbers today.",
+            heroSubheading: "Check the latest DA-HENG 4D results and bid your lucky numbers today.",
             heroHowToPlay: "How to Play",
             heroLatestResults: "Latest Results",
             resultsHeading: "Official DAHENG 4D Results",
@@ -250,7 +250,7 @@ document.addEventListener('DOMContentLoaded', () => {
             disclaimer: "Penafian: Ini adalah laman web fiksyen untuk tujuan demonstrasi. Keputusan loteri sebenar dan maklumat mungkin berbeza."
         },
         zh: {
-            pageTitle: "DAHENG 4D - 最好的彩票，最棒的奖品！",
+            pageTitle: "DAHENG 4D - 最好的彩票，最棒的奖金！",
             brandName: "DAHENG 4D",
             navHome: "主页",
             navResults: "开彩成绩",
@@ -258,8 +258,8 @@ document.addEventListener('DOMContentLoaded', () => {
             navPrize: "奖金",
             navAbout: "关于我们",
             navContact: "联系我们",
-            heroHeading: "梦想越大，中奖越大！",
-            heroSubheading: "查询最新的DA-HENG 4D开彩成绩，今天就玩你的幸运号码吧。",
+            heroHeading: "梦想越大，奖金越大！",
+            heroSubheading: "查询最新的DA-HENG 4D开彩成绩，买下你的幸运号码！",
             heroHowToPlay: "如何玩",
             heroLatestResults: "最新开彩",
             resultsHeading: "DAHENG 4D官方开彩成绩",
